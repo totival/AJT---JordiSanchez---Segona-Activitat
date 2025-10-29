@@ -1,0 +1,17 @@
+Exercici 1. 1.5/2
+  Has de fer fins a 101 quan fas list(range(100)). Perquè list(range(100)) no inclou el 100, es queda al 99.
+  No cal fer import math cada cel·la, amb una vegada és suficient (no resta, però perquè ho sàpigues).
+  Si el proper dia em saps explicar la funció zip(), et sumo 0.25.
+
+Exercici 2. 1.75/2
+  Volia les diferències entre les llargades del propi nom (és a dir, de l'Anna al principi i al final, per una banda; i la del Joan al principi i al final, per una altra).
+
+Exercici 3. 2/2
+  
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 9.25/10
